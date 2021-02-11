@@ -1,0 +1,38 @@
+.banner{
+  background-image: url(../../images/background.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1{
+  color: #ffff3f;
+  font-size: 35px;
+  border: 1px solid black;
+}
+
+.banner p{
+  color: #ffff3f;
+}
+
+.container{
+  width: 900px;
+  margin: 0 auto;
+  color: white;
+}
+
+.btn-primary{
+  display: inline-block;
+  padding: 16px 36px;
+  border-radius: 50px;
+  border: 2px solid #ffff3f;
+  color: #ffff3f;
+}
+
+.btn-primary:hover{
+  display: inline-block;
+  background-color: #ffff3f;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: black;
+}
